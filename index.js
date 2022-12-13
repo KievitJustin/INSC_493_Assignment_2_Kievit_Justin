@@ -1,4 +1,4 @@
-onst data = [
+const data = [
     { campus: 'UT KNOXVILLE', enrollment: 29460, color: '#fd8105' },
     { campus: 'UT CHATTANOOGA', enrollment: 11590, color:'#ecaa1f' },
     { campus: 'MARTIN', enrollment: 7280, color: '#0e223f' },
